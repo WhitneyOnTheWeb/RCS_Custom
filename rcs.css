@@ -12,8 +12,7 @@ body {
 }
 
 .app-right {
-    width: 400px;
-    border-left: 20px solid black;
+    width: 375px;
 }
 
 #chat {
