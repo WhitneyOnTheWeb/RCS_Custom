@@ -18,3 +18,7 @@ body {
 #chat {
     width: 400px;
 }
+
+#chat-input-field {
+    width: 350px;
+}
