@@ -23,6 +23,10 @@ body {
     width: 350px;
 }
 
+#chat-input-form {
+    width: 350px;
+}
+
 #chat-input-field {
     width: 350px;
 }
