@@ -7,6 +7,10 @@ body {
     background-image: url("http://whitneyontheweb.com/ChemicalCowboys/CC_Fez.png");
 }
 
+.icon-chat-popout {
+    padding-right: 10px;
+}
+
 .bdg-zoob-s01 {
     background-image: url("http://www.tinygif.com/data/media/1/usagi_yikes.gif");
 }
