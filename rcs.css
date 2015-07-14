@@ -23,6 +23,10 @@ body {
     width: 375px;
 }
 
+#chat-messages {
+    width: 375px;
+}
+
 #chat {
     width: 375px;
 }
