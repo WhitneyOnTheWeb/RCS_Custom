@@ -10,3 +10,7 @@ body {
 .bdg-zoob-s01 {
     background-image: url("http://www.tinygif.com/data/media/1/usagi_yikes.gif");
 }
+
+.chat {
+    width: 300px;
+}
