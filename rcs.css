@@ -1,3 +1,8 @@
 body {
     background-size: contain;
+    
+}
+
+.icon {
+    background-image: url("http://whitneyontheweb.com/ChemicalCowboys/CC_Fez.png");
 }
