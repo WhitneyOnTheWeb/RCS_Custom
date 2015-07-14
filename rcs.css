@@ -11,6 +11,10 @@ body {
     background-image: url("http://www.tinygif.com/data/media/1/usagi_yikes.gif");
 }
 
+.app-right {
+    width: 400px;
+}
+
 #chat {
     width: 400px;
 }
