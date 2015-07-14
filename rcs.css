@@ -7,6 +7,10 @@ body {
     background-image: url("http://whitneyontheweb.com/ChemicalCowboys/CC_Fez.png");
 }
 
+.icon-chat-popout {
+    margin-right: 30px;
+}
+
 .chat-header-button {
     margin-right: 50px;
 }
