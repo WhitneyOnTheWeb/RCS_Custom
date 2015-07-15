@@ -6,3 +6,21 @@ body {
 .icon-room {
     background-image: url("http://whitneyontheweb.com/ChemicalCowboys/CC_Fez.png");
 }
+
+@media (min-height: 901px) {
+    body {
+        background-image: url("http://whitneyontheweb.com/ChemicalCowboys/CC_Background_Wide.png");
+    }
+}
+
+@media (max-height: 845px) {
+    body {
+        background-image: url("http://whitneyontheweb.com/ChemicalCowboys/CC_Background.png");
+    }
+}
+
+@media (max-height: 844px) {
+    body {
+        background-image: url("http://whitneyontheweb.com/ChemicalCowboys/CC_Background_Small.png");
+    }
+}
