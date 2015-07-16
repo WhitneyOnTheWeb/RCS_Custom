@@ -2,6 +2,15 @@
     background-image: url("http://whitneyontheweb.com/ChemicalCowboys/CC_Fez.png");
 }
 
-#chat .id-3451392 i.bdg {
-  background: url('http://www.picgifs.com/graphics/k/kawaii-small/graphics-kawaii-small-336419.gif') !important;
+#chat .id-3451392 i.bdg {  /*RAWRMedusa  3451392*/
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/bees.gif') !important;
+    background-size: contain;
 }
+
+#chat .id-6717571 i.bdg { /*Chembot  6717571*/
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/chembot.gif') !important;
+    background-size: contain;
+}
+
+/*NoSpillBlood  id-3451429*/
+/*Sinjun  id-3450088*/
