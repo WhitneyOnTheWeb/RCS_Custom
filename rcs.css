@@ -2,24 +2,6 @@
     background-image: url("http://whitneyontheweb.com/ChemicalCowboys/CC_Fez.png");
 }
 
-@media (min-height: 901px) {
-    .room-background {
-        background-image: url("http://whitneyontheweb.com/ChemicalCowboys/CC_Background_Wide.png") !important;
-    }
-}
-
-@media (max-height: 845px) {
-    .room-background {
-        background-image: url("http://whitneyontheweb.com/ChemicalCowboys/CC_Background.png") !important;
-    }
-}
-
-@media (max-height: 844px) {
-    .room-background {
-        background-image: url("http://whitneyontheweb.com/ChemicalCowboys/CC_Background_Small.png") !important;
-    }
-}
-
-#chat .id-RAWRMedusa i.bdg {
+#chat .id-3451392 i.bdg {
   background: url('http://www.picgifs.com/graphics/k/kawaii-small/graphics-kawaii-small-336419.gif') !important;
 }
