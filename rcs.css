@@ -32,6 +32,11 @@
     background-size: contain;
 }
 
+#chat .rs-log-user-grab i.bdg {
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/grab.jpg') !important;
+    background-size: contain;
+}
+
 /*NoSpillBlood  id-3451429*/
 /*Sinjun  id-3450088*/
 /*DJLaunchpad   id-3450156*/
