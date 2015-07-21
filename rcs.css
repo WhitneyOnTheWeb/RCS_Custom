@@ -52,7 +52,12 @@
     background-size: contain;
 }
 
-#chat .icon icon-star-white {
+#chat .rs-log-user-leave i.bdg {
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/user.jpg') !important;
+    background-size: contain;
+}
+
+#chat .icon-star-white {
     background: url('http://whitneyontheweb.com/ChemicalCowboys/star.jpg') !important;
     background-size: contain;
 }
