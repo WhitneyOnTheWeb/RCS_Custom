@@ -75,7 +75,6 @@
 /*Dr_McKay  id-3695881*/
 /*EvilTinkerbell  id-6656331*/
 
-
 /*
 Credit to Radiant for this CSS file
 http://radiant.dj
@@ -247,22 +246,22 @@ background: #c42e3b;
 /* Custom woot/grab/meh icons */
 
 #woot .icon-woot-disabled, #woot .icon {
-	width: 25px;
-	height: 25px;
+	width: 28px;
+	height: 28px;
 	background: url("https://static-cdn.jtvnw.net/emoticons/v1/20280/1.0") !important;
 }
 
 
 #grab .icon-grab-disabled, #grab .icon {
-	width:25px;
-	height:25px;
+	width:28px;
+	height:28px;
 	background: url("https://static-cdn.jtvnw.net/emoticons/v1/33940/1.0") !important;
 }
 
 
 #meh .icon-meh-disabled, #meh .icon {
-	width:25px;
-	height:25px;
+	width:28px;
+	height:28px;
 	background: url("https://static-cdn.jtvnw.net/emoticons/v1/27307/1.0");
 }
 
