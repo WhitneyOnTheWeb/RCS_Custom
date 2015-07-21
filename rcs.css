@@ -52,6 +52,11 @@
     background-size: contain;
 }
 
+#chat .rs-log-user-woot i.bdg {
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/thumbupsm.png') !important;
+    background-size: contain;
+}
+
 #chat .rs-log-user-leave i {
     background: url('http://whitneyontheweb.com/ChemicalCowboys/usersm.png') !important;
     background-size: contain;
