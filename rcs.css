@@ -32,6 +32,14 @@
     background-size: contain;
 }
 
+.id-6717571 span.un.clickable {
+ -webkit-animation: color_change_leaf 1s infinite alternate;
+ -moz-animation: color_change_leaf 1s infinite alternate;
+ -ms-animation: color_change_leaf 1s infinite alternate;
+ -o-animation: color_change_leaf 1s infinite alternate;
+ animation: color_change_leaf 1s infinite alternate;
+}
+
 #chat .rs-log-user-grab i.bdg {
     background: url('http://whitneyontheweb.com/ChemicalCowboys/thumbupsm.png') !important;
     background-size: contain;
