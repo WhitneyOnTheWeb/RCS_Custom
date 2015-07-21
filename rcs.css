@@ -33,32 +33,32 @@
 }
 
 #chat .rs-log-user-grab i.bdg {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/thumbup.gif') !important;
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/thumbup.png') !important;
     background-size: contain;
 }
 
 #chat .rs-log-user-meh i.bdg {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/thumbdown.gif') !important;
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/thumbdown.png') !important;
     background-size: contain;
 }
 
 #chat .rs-log-user-friend-join i.bdg {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/star.gif') !important;
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/star.png') !important;
     background-size: contain;
 }
 
 #chat .rs-log-user-join i.bdg {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/user.gif') !important;
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/user.png') !important;
     background-size: contain;
 }
 
 #chat .rs-log-user-leave i.bdg {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/user.gif') !important;
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/user.png') !important;
     background-size: contain;
 }
 
 #chat i.icon-star-white {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/star.gif') !important;
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/star.png') !important;
     background-size: contain;
 }
 
