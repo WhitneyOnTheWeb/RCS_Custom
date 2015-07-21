@@ -33,11 +33,32 @@
 }
 
 .id-6717571 span.un.clickable {
- -webkit-animation: color_change_leaf 1s infinite alternate;
- -moz-animation: color_change_leaf 1s infinite alternate;
- -ms-animation: color_change_leaf 1s infinite alternate;
- -o-animation: color_change_leaf 1s infinite alternate;
- animation: color_change_leaf 1s infinite alternate;
+ -webkit-animation: color_change_chem 1s infinite alternate;
+ -moz-animation: color_change_chem 1s infinite alternate;
+ -ms-animation: color_change_chem 1s infinite alternate;
+ -o-animation: color_change_chem 1s infinite alternate;
+ animation: color_change_chem 1s infinite alternate;
+}
+
+@-webkit-keyframes color_change_chem {
+ from { color: #7FE22E; }
+ to { color: #aa74ff; }
+}
+@-moz-keyframes color_change_chem {
+ from { color: #7FE22E; }
+ to { color: #aa74ff; }
+}
+@-ms-keyframes color_change_chem {
+ from { color: #7FE22E; }
+ to { color: #aa74ff; }
+}
+@-o-keyframes color_change_chem {
+ from { color: #7FE22E; }
+ to { color: #aa74ff; }
+}
+@keyframes color_change_chem {
+ from { color: #7FE22E; }
+ to { color: #aa74ff; }
 }
 
 #chat .rs-log-user-grab i.bdg {
