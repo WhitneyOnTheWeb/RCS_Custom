@@ -33,22 +33,22 @@
 }
 
 #chat .rs-log-user-grab i.bdg {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/grab.jpg') !important;
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/thumbup.jpg') !important;
     background-size: contain;
 }
 
 #chat .rs-log-user-meh i.bdg {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/grab.jpg') !important;
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/thumbdown.jpg') !important;
     background-size: contain;
 }
 
 #chat .rs-log-user-friend-join i.bdg {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/grab.jpg') !important;
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/star.jpg') !important;
     background-size: contain;
 }
 
 #chat .rs-log-user-join i.bdg {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/grab.jpg') !important;
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/user.jpg') !important;
     background-size: contain;
 }
 
