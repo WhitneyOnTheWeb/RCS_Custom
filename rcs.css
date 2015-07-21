@@ -52,6 +52,11 @@
     background-size: contain;
 }
 
+#chat .icon icon-star-white {
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/star.jpg') !important;
+    background-size: contain;
+}
+
 
 /*NoSpillBlood  id-3451429*/
 /*Sinjun  id-3450088*/
