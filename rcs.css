@@ -66,7 +66,7 @@
     background-color: rgba(66, 165, 220, 0.1) !important;
 }
 
-.room-name {
+#room-name {
  -webkit-animation: color_change_chem_1 10s infinite ease-in-out;
  -moz-animation: color_change_chem_1 10s infinite ease-in-out;
  -ms-animation: color_change_chem_1 10s infinite ease-in-out;
