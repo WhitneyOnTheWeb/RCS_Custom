@@ -17,6 +17,10 @@
     background-size: contain;
 }
 
+#chat .id-3451392 .badge-box {
+    background-color: lightpink !important;
+}
+
 #chat .id-6656331 i.bdg {  /*EvilTinkerbell  6656331*/
     background: url('http://whitneyontheweb.com/ChemicalCowboys/tink3.gif') !important;
     background-size: contain;
@@ -46,6 +50,12 @@
 #chat .id-6717571 i.bdg { /*Chembot  6717571*/
     background: url('http://whitneyontheweb.com/ChemicalCowboys/chembot.gif') !important;
     background-size: contain;
+}
+
+
+#chat .id-6717571 .message {
+    border-left: 3px solid #42A5DC !important;
+    background-color: rgba(66, 165, 220, 0.1) !important;
 }
 
 .id-6717571 span.un.clickable {
