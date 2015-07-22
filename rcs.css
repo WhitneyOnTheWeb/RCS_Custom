@@ -16,6 +16,10 @@
     background-size: contain;
 }
 
+#chat .id-3486853 i {
+    background-color: lightpink !important;
+}
+
 #chat .id-6656331 i.bdg {  /*EvilTinkerbell  6656331*/
     background: url('http://whitneyontheweb.com/ChemicalCowboys/tink3.gif') !important;
     background-size: contain;
