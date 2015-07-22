@@ -202,6 +202,14 @@
     background-size: contain;
 }
 
+/*#chat .icon-skip {
+    
+}*/
+
+#chat .no-badge {
+    background-color: none !important;
+}
+
 /*
 Credit to Radiant for this CSS file
 http://radiant.dj
