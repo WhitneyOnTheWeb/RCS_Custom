@@ -98,7 +98,7 @@
 
 
 #chat .rs-log-user-grab i.bdg {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/thumbupsm.png') !important;
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/heartsm.png') !important;
     background-size: contain;
 }
 
@@ -124,6 +124,11 @@
 
 #chat .rs-log-user-leave i {
     background: url('http://whitneyontheweb.com/ChemicalCowboys/usersm.png') !important;
+    background-size: contain;
+}
+
+#chat .rs-log-booth-alert i {
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/headphonessm.png') !important;
     background-size: contain;
 }
 
