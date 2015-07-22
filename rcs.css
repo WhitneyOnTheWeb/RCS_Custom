@@ -67,11 +67,11 @@
 }
 
 #room-name .bar-value {
- -webkit-animation: color_change_chem_1 10s infinite ease-in-out;
- -moz-animation: color_change_chem_1 10s infinite ease-in-out;
- -ms-animation: color_change_chem_1 10s infinite ease-in-out;
- -o-animation: color_change_chem_1 10s infinite ease-in-out;
- animation: color_change_chem_1 10s infinite ease-in-out;
+ -webkit-animation: color_change_chem_1 100s infinite ease-in-out;
+ -moz-animation: color_change_chem_1 100s infinite ease-in-out;
+ -ms-animation: color_change_chem_1 100s infinite ease-in-out;
+ -o-animation: color_change_chem_1 100s infinite ease-in-out;
+ animation: color_change_chem_1 100s infinite ease-in-out;
 }
 
 
