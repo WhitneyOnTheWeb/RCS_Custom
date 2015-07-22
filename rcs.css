@@ -33,60 +33,94 @@
 }
 
 .id-6717571 span.un.clickable {
- -webkit-animation: color_change_chem 1s infinite alternate;
- -moz-animation: color_change_chem 1s infinite alternate;
- -ms-animation: color_change_chem 1s infinite alternate;
- -o-animation: color_change_chem 1s infinite alternate;
- animation: color_change_chem 1s infinite alternate;
+ -webkit-animation: color_change_chem_1 1s infinite alternate,
+                    color_change_chem_2 1s infinite alternate,
+                    color_change_chem_3 1s infinite alternate;
+ -moz-animation: color_change_chem_1 1s infinite alternate,
+                    color_change_chem_2 1s infinite alternate,
+                    color_change_chem_3 1s infinite alternate;
+ -ms-animation: color_change_chem_1 1s infinite alternate,
+                    color_change_chem_2 1s infinite alternate,
+                    color_change_chem_3 1s infinite alternate;
+ -o-animation: color_change_chem_1 1s infinite alternate,
+                    color_change_chem_2 1s infinite alternate,
+                    color_change_chem_3 1s infinite alternate;
+ animation: color_change_chem_1 1s infinite alternate,
+                    color_change_chem_2 1s infinite alternate,
+                    color_change_chem_3 1s infinite alternate;
 }
 
-@-webkit-keyframes color_change_chem {
+@-webkit-keyframes color_change_chem_1 {
  	from { color: red; }
  	to { color: yellow; }
+}
 
-	from { color: yellow; }
+@-webkit-keyframes color_change_chem_2 {
+ 	from { color: yellow; }
  	to { color: blue; }
-    
-    from { color: blue; }
+}
+
+@-webkit-keyframes color_change_chem_3 {
+ 	from { color: blue; }
  	to { color: red; }
 }
-@-moz-keyframes color_change_chem {
+
+@-moz-keyframes color_change_chem_1 {
  	from { color: red; }
  	to { color: yellow; }
+}
 
-	from { color: yellow; }
+@-moz-keyframes color_change_chem_2 {
+ 	from { color: yellow; }
  	to { color: blue; }
-    
-    from { color: blue; }
+}
+
+@-moz-keyframes color_change_chem_3 {
+ 	from { color: blue; }
  	to { color: red; }
 }
-@-ms-keyframes color_change_chem {
+
+@-ms-keyframes color_change_chem_1 {
  	from { color: red; }
  	to { color: yellow; }
+}
 
-	from { color: yellow; }
+@-ms-keyframes color_change_chem_2 {
+ 	from { color: yellow; }
  	to { color: blue; }
-    
-    from { color: blue; }
+}
+
+@-ms-keyframes color_change_chem_3 {
+ 	from { color: blue; }
  	to { color: red; }
 }
-@-o-keyframes color_change_chem {
+
+@-o-keyframes color_change_chem_1 {
  	from { color: red; }
  	to { color: yellow; }
+}
 
-	from { color: yellow; }
+@-o-keyframes color_change_chem_2 {
+ 	from { color: yellow; }
  	to { color: blue; }
-    
-    from { color: blue; }
+}
+
+@-o-keyframes color_change_chem_3 {
+ 	from { color: blue; }
  	to { color: red; }
 }
-@keyframes color_change_chem {
+
+@keyframes color_change_chem_1 {
  	from { color: red; }
  	to { color: yellow; }
+}
 
+@keyframes color_change_chem_2 {
 	from { color: yellow; }
  	to { color: blue; }
-    
+}
+
+@keyframes color_change_chem_3 {
     from { color: blue; }
  	to { color: red; }
 }
