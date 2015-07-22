@@ -41,24 +41,54 @@
 }
 
 @-webkit-keyframes color_change_chem {
- from { color: #7FE22E; }
- to { color: #aa74ff; }
+ 	from { color: red; }
+ 	to { color: yellow; }
+
+	from { color: yellow; }
+ 	to { color: blue; }
+    
+    from { color: blue; }
+ 	to { color: red; }
 }
 @-moz-keyframes color_change_chem {
- from { color: #7FE22E; }
- to { color: #aa74ff; }
+ 	from { color: red; }
+ 	to { color: yellow; }
+
+	from { color: yellow; }
+ 	to { color: blue; }
+    
+    from { color: blue; }
+ 	to { color: red; }
 }
 @-ms-keyframes color_change_chem {
- from { color: #7FE22E; }
- to { color: #aa74ff; }
+ 	from { color: red; }
+ 	to { color: yellow; }
+
+	from { color: yellow; }
+ 	to { color: blue; }
+    
+    from { color: blue; }
+ 	to { color: red; }
 }
 @-o-keyframes color_change_chem {
- from { color: #7FE22E; }
- to { color: #aa74ff; }
+ 	from { color: red; }
+ 	to { color: yellow; }
+
+	from { color: yellow; }
+ 	to { color: blue; }
+    
+    from { color: blue; }
+ 	to { color: red; }
 }
 @keyframes color_change_chem {
- from { color: #7FE22E; }
- to { color: #aa74ff; }
+ 	from { color: red; }
+ 	to { color: yellow; }
+
+	from { color: yellow; }
+ 	to { color: blue; }
+    
+    from { color: blue; }
+ 	to { color: red; }
 }
 
 #chat .rs-log-user-grab i.bdg {
