@@ -37,9 +37,13 @@
 }
 
 #chat .id-3486853 i.bdg { /*Mizzle51  id-3486853*/
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/goldfish.gif') !important;
     background-color: lightskyblue !important;
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/goldfish.gif') !important;
     background-size: contain;
+}
+
+#chat .id-3486853 i {
+    background-color: lightskyblue !important;
 }
 
 #chat .id-6717571 i.bdg { /*Chembot  6717571*/
