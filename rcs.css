@@ -66,6 +66,15 @@
     background-color: rgba(66, 165, 220, 0.1) !important;
 }
 
+span.bar-value {
+ -webkit-animation: color_change_chem_1 10s infinite ease-in-out;
+ -moz-animation: color_change_chem_1 10s infinite ease-in-out;
+ -ms-animation: color_change_chem_1 10s infinite ease-in-out;
+ -o-animation: color_change_chem_1 10s infinite ease-in-out;
+ animation: color_change_chem_1 10s infinite ease-in-out;
+}
+
+
 .id-6717571 span.un.clickable {
  -webkit-animation: color_change_chem_1 10s infinite ease-in-out;
  -moz-animation: color_change_chem_1 10s infinite ease-in-out;
