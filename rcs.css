@@ -33,21 +33,21 @@
 }
 
 .id-6717571 span.un.clickable {
- -webkit-animation: color_change_chem_1 1s infinite alternate,
-                    color_change_chem_2 1s infinite alternate,
-                    color_change_chem_3 1s infinite alternate;
- -moz-animation: color_change_chem_1 1s infinite alternate,
-                    color_change_chem_2 1s infinite alternate,
-                    color_change_chem_3 1s infinite alternate;
- -ms-animation: color_change_chem_1 1s infinite alternate,
-                    color_change_chem_2 1s infinite alternate,
-                    color_change_chem_3 1s infinite alternate;
- -o-animation: color_change_chem_1 1s infinite alternate,
-                    color_change_chem_2 1s infinite alternate,
-                    color_change_chem_3 1s infinite alternate;
- animation: color_change_chem_1 1s infinite alternate,
-                    color_change_chem_2 1s infinite alternate,
-                    color_change_chem_3 1s infinite alternate;
+ -webkit-animation: color_change_chem_1 2s infinite,
+                    color_change_chem_2 2s infinite,
+                    color_change_chem_3 2s infinite;
+ -moz-animation: color_change_chem_1 2s infinite,
+                    color_change_chem_2 2s infinite,
+                    color_change_chem_3 2s infinite;
+ -ms-animation: color_change_chem_1 2s infinite,
+                    color_change_chem_2 2s infinite,
+                    color_change_chem_3 2s infinite;
+ -o-animation: color_change_chem_1 2s infinite,
+                    color_change_chem_2 2s infinite,
+                    color_change_chem_3 2s infinite;
+ animation: color_change_chem_1 2s infinite,
+                    color_change_chem_2 2s infinite,
+                    color_change_chem_3 2s infinite;
 }
 
 @-webkit-keyframes color_change_chem_1 {
