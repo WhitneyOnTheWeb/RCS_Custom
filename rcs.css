@@ -18,12 +18,16 @@
 }
 
 #chat .id-3451392 .badge-box {
-    background-color: lightpink !important;
+    background-color: paleturquoise !important;
 }
 
 #chat .id-6656331 i.bdg {  /*EvilTinkerbell  6656331*/
     background: url('http://whitneyontheweb.com/ChemicalCowboys/tink3.gif') !important;
     background-size: contain;
+}
+
+#chat .id-6656331 .badge-box {
+    background-color: indigo !important;
 }
 
 #chat .id-3450156 i.bdg { /*DJLaunchpad  3450156*/
@@ -45,6 +49,10 @@
     background-color: lightskyblue !important;
     background: url('http://whitneyontheweb.com/ChemicalCowboys/goldfish.gif') !important;
     background-size: contain;
+}
+
+#chat .id-3486853 .badge-box {
+    background-color: lightskyblue !important;
 }
 
 #chat .id-6717571 i.bdg { /*Chembot  6717571*/
