@@ -33,97 +33,55 @@
 }
 
 .id-6717571 span.un.clickable {
- -webkit-animation: color_change_chem_1 2s infinite,
-                    color_change_chem_2 2s infinite,
-                    color_change_chem_3 2s infinite;
- -moz-animation: color_change_chem_1 2s infinite,
-                    color_change_chem_2 2s infinite,
-                    color_change_chem_3 2s infinite;
- -ms-animation: color_change_chem_1 2s infinite,
-                    color_change_chem_2 2s infinite,
-                    color_change_chem_3 2s infinite;
- -o-animation: color_change_chem_1 2s infinite,
-                    color_change_chem_2 2s infinite,
-                    color_change_chem_3 2s infinite;
- animation: color_change_chem_1 2s infinite,
-                    color_change_chem_2 2s infinite,
-                    color_change_chem_3 2s infinite;
+ -webkit-animation: color_change_chem_1 5s infinite alternate;
+ -moz-animation: color_change_chem_1 5s infinite alternate;
+ -ms-animation: color_change_chem_1 5s infinite alternate;
+ -o-animation: color_change_chem_1 5s infinite alternate;
+ animation: color_change_chem_1 5s infinite alternate;
 }
 
 @-webkit-keyframes color_change_chem_1 {
- 	from { color: red; }
- 	to { color: yellow; }
-}
-
-@-webkit-keyframes color_change_chem_2 {
- 	from { color: yellow; }
- 	to { color: blue; }
-}
-
-@-webkit-keyframes color_change_chem_3 {
- 	from { color: blue; }
- 	to { color: red; }
+ 	0% { color: red; }
+    25% { color: yellow; }
+    50% { color: lawngreen; }
+    75% { color: darkblue; }
+    100% { color: rebeccapurple; }
 }
 
 @-moz-keyframes color_change_chem_1 {
- 	from { color: red; }
- 	to { color: yellow; }
+ 	0% { color: red; }
+    25% { color: yellow; }
+    50% { color: lawngreen; }
+    75% { color: darkblue; }
+    100% { color: rebeccapurple; }
 }
 
-@-moz-keyframes color_change_chem_2 {
- 	from { color: yellow; }
- 	to { color: blue; }
-}
-
-@-moz-keyframes color_change_chem_3 {
- 	from { color: blue; }
- 	to { color: red; }
-}
 
 @-ms-keyframes color_change_chem_1 {
- 	from { color: red; }
- 	to { color: yellow; }
+ 	0% { color: red; }
+    25% { color: yellow; }
+    50% { color: lawngreen; }
+    75% { color: darkblue; }
+    100% { color: rebeccapurple; }
 }
 
-@-ms-keyframes color_change_chem_2 {
- 	from { color: yellow; }
- 	to { color: blue; }
-}
-
-@-ms-keyframes color_change_chem_3 {
- 	from { color: blue; }
- 	to { color: red; }
-}
 
 @-o-keyframes color_change_chem_1 {
- 	from { color: red; }
- 	to { color: yellow; }
-}
-
-@-o-keyframes color_change_chem_2 {
- 	from { color: yellow; }
- 	to { color: blue; }
-}
-
-@-o-keyframes color_change_chem_3 {
- 	from { color: blue; }
- 	to { color: red; }
+ 	0% { color: red; }
+    25% { color: yellow; }
+    50% { color: lawngreen; }
+    75% { color: darkblue; }
+    100% { color: rebeccapurple; }
 }
 
 @keyframes color_change_chem_1 {
- 	from { color: red; }
- 	to { color: yellow; }
+ 	0% { color: red; }
+    25% { color: yellow; }
+    50% { color: lawngreen; }
+    75% { color: darkblue; }
+    100% { color: rebeccapurple; }
 }
 
-@keyframes color_change_chem_2 {
-	from { color: yellow; }
- 	to { color: blue; }
-}
-
-@keyframes color_change_chem_3 {
-    from { color: blue; }
- 	to { color: red; }
-}
 
 #chat .rs-log-user-grab i.bdg {
     background: url('http://whitneyontheweb.com/ChemicalCowboys/thumbupsm.png') !important;
