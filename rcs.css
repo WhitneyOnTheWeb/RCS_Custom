@@ -48,53 +48,83 @@
 }
 
 .id-6717571 span.un.clickable {
- -webkit-animation: color_change_chem_1 5s infinite alternate;
- -moz-animation: color_change_chem_1 5s infinite alternate;
- -ms-animation: color_change_chem_1 5s infinite alternate;
- -o-animation: color_change_chem_1 5s infinite alternate;
- animation: color_change_chem_1 5s infinite alternate;
+ -webkit-animation: color_change_chem_1 10s infinite ease-in-out;
+ -moz-animation: color_change_chem_1 10s infinite ease-in-out;
+ -ms-animation: color_change_chem_1 10s infinite ease-in-out;
+ -o-animation: color_change_chem_1 10s infinite ease-in-out;
+ animation: color_change_chem_1 10s infinite ease-in-out;
 }
 
 @-webkit-keyframes color_change_chem_1 {
  	0% { color: red; }
-    25% { color: yellow; }
-    50% { color: lawngreen; }
-    75% { color: darkblue; }
-    100% { color: rebeccapurple; }
+    10% { color: darkorange; }
+    20% { color: yellow; }
+    30% { color: lawngreen; }
+    40% { color: green; }
+    50% { color: lightseagreen; }
+    60% { color: dodgerblue; }
+    70% { color: blue; }
+    80% { color: indigo; }
+    90% { color: rebeccapurple; }
+    100% { color: deeppink; }
 }
 
 @-moz-keyframes color_change_chem_1 {
  	0% { color: red; }
-    25% { color: yellow; }
-    50% { color: lawngreen; }
-    75% { color: darkblue; }
-    100% { color: rebeccapurple; }
+    10% { color: darkorange; }
+    20% { color: yellow; }
+    30% { color: lawngreen; }
+    40% { color: green; }
+    50% { color: lightseagreen; }
+    60% { color: dodgerblue; }
+    70% { color: blue; }
+    80% { color: indigo; }
+    90% { color: rebeccapurple; }
+    100% { color: deeppink; }
 }
 
 
 @-ms-keyframes color_change_chem_1 {
  	0% { color: red; }
-    25% { color: yellow; }
-    50% { color: lawngreen; }
-    75% { color: darkblue; }
-    100% { color: rebeccapurple; }
+    10% { color: darkorange; }
+    20% { color: yellow; }
+    30% { color: lawngreen; }
+    40% { color: green; }
+    50% { color: lightseagreen; }
+    60% { color: dodgerblue; }
+    70% { color: blue; }
+    80% { color: indigo; }
+    90% { color: rebeccapurple; }
+    100% { color: deeppink; }
 }
 
 
 @-o-keyframes color_change_chem_1 {
  	0% { color: red; }
-    25% { color: yellow; }
-    50% { color: lawngreen; }
-    75% { color: darkblue; }
-    100% { color: rebeccapurple; }
+    10% { color: darkorange; }
+    20% { color: yellow; }
+    30% { color: lawngreen; }
+    40% { color: green; }
+    50% { color: lightseagreen; }
+    60% { color: dodgerblue; }
+    70% { color: blue; }
+    80% { color: indigo; }
+    90% { color: rebeccapurple; }
+    100% { color: deeppink; }
 }
 
 @keyframes color_change_chem_1 {
  	0% { color: red; }
-    25% { color: yellow; }
-    50% { color: lawngreen; }
-    75% { color: darkblue; }
-    100% { color: rebeccapurple; }
+    10% { color: darkorange; }
+    20% { color: yellow; }
+    30% { color: lawngreen; }
+    40% { color: green; }
+    50% { color: lightseagreen; }
+    60% { color: dodgerblue; }
+    70% { color: blue; }
+    80% { color: indigo; }
+    90% { color: rebeccapurple; }
+    100% { color: deeppink; }
 }
 
 
