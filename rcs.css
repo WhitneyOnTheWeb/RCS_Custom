@@ -163,6 +163,11 @@
     background-size: contain;
 }
 
+#chat .rs-log-song-stats i {
+    background: url('http://whitneyontheweb.com/ChemicalCowboys/musicsm.png') !important;
+    background-size: contain;
+}
+
 #chat i.icon-star-white {
     background: url('http://whitneyontheweb.com/ChemicalCowboys/starsm.png') !important;
     background-size: contain;
