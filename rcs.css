@@ -418,21 +418,21 @@
 #woot .icon-woot-disabled, #woot .icon {
     width: 28px;
     height: 28px;
-    background: url("http://whitneyontheweb.com/ChemicalCowboys/heartbig.png") !important;
+    background: url("http://whitneyontheweb.com/ChemicalCowboys/heartbig2.png") !important;
 }
 
 
 #grab .icon-grab-disabled, #grab .icon {
     width: 28px;
     height: 28px;
-    background: url("http://whitneyontheweb.com/ChemicalCowboys/grab2.png") !important;
+    background: url("http://whitneyontheweb.com/ChemicalCowboys/grabicon.png") !important;
 }
 
 
 #meh .icon-meh-disabled, #meh .icon {
     width: 28px;
     height: 28px;
-    background: url("http://whitneyontheweb.com/ChemicalCowboys/poo.png");
+    background: url("http://whitneyontheweb.com/ChemicalCowboys/poo2.png");
 }
 
 
