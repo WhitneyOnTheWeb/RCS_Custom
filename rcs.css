@@ -418,6 +418,7 @@
 #woot .icon-woot-disabled, #woot .icon {
     width: 28px;
     height: 28px;
+    padding-right: 3px;
     background: url("http://whitneyontheweb.com/ChemicalCowboys/heartbig2.png") !important;
 }
 
@@ -425,6 +426,7 @@
 #grab .icon-grab-disabled, #grab .icon {
     width: 28px;
     height: 28px;
+    padding-right: 3px;
     background: url("http://whitneyontheweb.com/ChemicalCowboys/grabicon.png") !important;
 }
 
@@ -432,6 +434,7 @@
 #meh .icon-meh-disabled, #meh .icon {
     width: 28px;
     height: 28px;
+    padding-right: 3px;
     background: url("http://whitneyontheweb.com/ChemicalCowboys/poo2.png");
 }
 
