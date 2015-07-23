@@ -163,49 +163,54 @@
 #chat .rs-log-user-grab i.bdg {
     background: url('http://whitneyontheweb.com/ChemicalCowboys/heartsm.png') !important;
     background-size: contain;
+    background-color: none !important;
 }
 
 #chat .rs-log-user-meh i.bdg {
     background: url('http://whitneyontheweb.com/ChemicalCowboys/thumbdownsm.png') !important;
     background-size: contain;
+    background-color: none !important;
 }
 
 #chat .rs-log-user-friend-join i.bdg {
     background: url('http://whitneyontheweb.com/ChemicalCowboys/starsm.png') !important;
     background-size: contain;
+    background-color: none !important;
 }
 
 #chat .rs-log-user-join i.bdg {
     background: url('http://whitneyontheweb.com/ChemicalCowboys/usersm.png') !important;
     background-size: contain;
+    background-color: none !important;
 }
 
 #chat .rs-log-user-woot i.bdg {
     background: url('http://whitneyontheweb.com/ChemicalCowboys/thumbupsm.png') !important;
     background-size: contain;
+    background-color: none !important;
 }
 
 #chat .rs-log-user-leave i {
     background: url('http://whitneyontheweb.com/ChemicalCowboys/usersm.png') !important;
     background-size: contain;
+    background-color: none !important;
 }
 
 #chat .rs-log-booth-alert i {
     background: url('http://whitneyontheweb.com/ChemicalCowboys/headphonessm.png') !important;
     background-size: contain;
+    background-color: none !important;
 }
 
 #chat .rs-log-song-stats i {
     background: url('http://whitneyontheweb.com/ChemicalCowboys/musicsm.png') !important;
     background-size: contain;
+    background-color: none !important;
 }
 
 #chat i.icon-star-white {
     background: url('http://whitneyontheweb.com/ChemicalCowboys/starsm.png') !important;
     background-size: contain;
-}
-
-#chat .no-badge {
     background-color: none !important;
 }
 
