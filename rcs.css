@@ -172,6 +172,10 @@
     background-color: transparent !important;
 }
 
+#chat .rs-log-user-meh i.s {
+    background-color: transparent !important;
+}
+
 #chat .rs-log-user-friend-join i.bdg {
     background: url('http://whitneyontheweb.com/ChemicalCowboys/starsm.png') !important;
     background-size: contain;
@@ -187,6 +191,10 @@
 #chat .rs-log-user-woot i.bdg {
     background: url('http://whitneyontheweb.com/ChemicalCowboys/thumbupsm.png') !important;
     background-size: contain;
+    background-color: transparent !important;
+}
+
+#chat .rs-log-user-meh i.s {
     background-color: transparent !important;
 }
 
