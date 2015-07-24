@@ -31,6 +31,8 @@ body {
        url(introheadr-base-webfont.woff) format('woff'), /* Pretty Modern Browsers */
        url(introheadr-base-webfont.ttf)  format('truetype'), /* Safari, Android, iOS */
        url(introheadr-base-webfont.svg) format('svg'); /* Legacy iOS */
+    font-weight: normal;
+    font-style: normal;
 }
 
 /*Personal Badges -----------------------------------------------------------------------*/
