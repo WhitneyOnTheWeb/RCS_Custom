@@ -114,6 +114,10 @@ body {
     background-size: contain;
 }
 
+#chat .id-6656331 .badge-box {
+    background-color: transparent !important;
+}
+
 #chat .id-3451392 .badge-box {
     background-color: palegoldenrod !important;
 }
