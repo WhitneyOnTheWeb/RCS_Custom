@@ -1,8 +1,7 @@
 /*Room Name Settings -----------------------------------------------------------------------*/
-@import url(//fonts.googleapis.com/css?family=Rock+Salt);
+@import url(//fonts.googleapis.com/css?family=Josefin+Sans);
 /*@import url(//fonts.googleapis.com/css?family=Open+Sans);
-@import url(//fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
-@import url(//fonts.googleapis.com/css?family=Josefin+Sans);*/
+@import url(//fonts.googleapis.com/css?family=Open+Sans+Condensed:300);*/
 
 .icon-room {
     background-image: url("http://whitneyontheweb.com/ChemicalCowboys/CC_Fez.png");
@@ -10,7 +9,8 @@
 
 body {
     background-size: 100% auto !important;
-    background-attachment: fixed 0px 0px !important;    
+    background-attachment: fixed 0px 0px !important;  
+    font-family: 'Open Sans Condensed', sans-serif !important;  
 }
 
 #room-name .bar-value {
@@ -24,13 +24,24 @@ body {
 
 @font-face {
     font-family: Rust;
-    src: url(introheadr-base-webfont.eot) format('embedded-opentype'), /* IE6-IE8 */
-       url(introheadr-base-webfont.woff2) format('woff2'), /* Super Modern Browsers */
-       url(introheadr-base-webfont.woff) format('woff'), /* Pretty Modern Browsers */
-       url(introheadr-base-webfont.ttf)  format('truetype'), /* Safari, Android, iOS */
-       url(introheadr-base-webfont.svg) format('svg'); /* Legacy iOS */
+    src: local('introheadr-base-webfont')
+       url(http://whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.eot) format('embedded-opentype'), /* IE6-IE8 */
+       url(http://whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.woff2) format('woff2'), /* Super Modern Browsers */
+       url(http://whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.woff) format('woff'), /* Pretty Modern Browsers */
+       url(http://whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.ttf)  format('truetype'), /* Safari, Android, iOS */
+       url(http://whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.svg) format('svg'); /* Legacy iOS */
     font-weight: normal;
     font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rock Salt';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Rock Salt'), 
+       local('RockSalt'), 
+       url(http://fonts.gstatic.com/s/rocksalt/v6/Q94aHXFHGip10K5uxi1jOFtXRa8TVwTICgirnJhmVJw.woff2) format('woff2'), 
+       url(http://fonts.gstatic.com/s/rocksalt/v6/Q94aHXFHGip10K5uxi1jOD8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
 }
 
 /*Personal Badges -----------------------------------------------------------------------*/
