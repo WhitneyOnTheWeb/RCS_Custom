@@ -416,11 +416,23 @@
     background: #89be6c;
 }
 
+#woot .crowd-response.crowd-response.disabled.active .bottom {
+    background: #89be6c;
+}
+
 #grab .bottom, #grab.selected {
     background: #734ba9;
 }
 
+#grab .crowd-response.crowd-response.disabled.active .bottom {
+    background: #734ba9;
+}
+
 #meh .bottom, #meh.selected {
+    background: #FF3558;
+}
+
+#meh .crowd-response.crowd-response.disabled.active .bottom {
     background: #FF3558;
 }
 
