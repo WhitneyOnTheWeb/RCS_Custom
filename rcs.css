@@ -1,4 +1,6 @@
 /*Room Name Settings -----------------------------------------------------------------------*/
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
+
 .icon-room {
     background-image: url("http://whitneyontheweb.com/ChemicalCowboys/CC_Fez.png");
 }
@@ -15,16 +17,16 @@
 body {
     background-size: 100% auto !important;
     background-attachment: fixed 0px 0px !important;    
-    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 @font-face {
     font-family: Rust;
-    src: url('http://whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.eot') format('embedded-opentype'), /* IE6-IE8 */
-       url('http://whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.woff2') format('woff2'), /* Super Modern Browsers */
-       url('http://whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.woff') format('woff'), /* Pretty Modern Browsers */
-       url('http://whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('http://whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.svg') format('svg'); /* Legacy iOS */
+    src: url('//whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.eot') format('embedded-opentype'), /* IE6-IE8 */
+       url('//whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+       url('//whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('//whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('//whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.svg') format('svg'); /* Legacy iOS */
 }
 
 /*Personal Badges -----------------------------------------------------------------------*/
