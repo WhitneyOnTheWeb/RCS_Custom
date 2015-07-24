@@ -14,8 +14,13 @@
 
 body {
     background-size: 100% auto !important;
-    background-attachment: fixed 0px 0px !important;
-    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background-attachment: fixed 0px 0px !important;    
+    font-family: Rust;
+}
+
+@font-face {
+    font-family: Rust;
+    src: url("http://whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.woff")
 }
 
 /*Personal Badges -----------------------------------------------------------------------*/
