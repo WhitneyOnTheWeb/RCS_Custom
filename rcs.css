@@ -26,11 +26,11 @@ body {
 
 @font-face {
     font-family: Rust;
-    src: url(//whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.eot) format('embedded-opentype'), /* IE6-IE8 */
-       url(//whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.woff2) format('woff2'), /* Super Modern Browsers */
-       url(//whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.woff) format('woff'), /* Pretty Modern Browsers */
-       url(//whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.ttf)  format('truetype'), /* Safari, Android, iOS */
-       url(//whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.svg) format('svg'); /* Legacy iOS */
+    src: url(introheadr-base-webfont.eot) format('embedded-opentype'), /* IE6-IE8 */
+       url(introheadr-base-webfont.woff2) format('woff2'), /* Super Modern Browsers */
+       url(introheadr-base-webfont.woff) format('woff'), /* Pretty Modern Browsers */
+       url(introheadr-base-webfont.ttf)  format('truetype'), /* Safari, Android, iOS */
+       url(introheadr-base-webfont.svg) format('svg'); /* Legacy iOS */
 }
 
 /*Personal Badges -----------------------------------------------------------------------*/
