@@ -9,6 +9,7 @@ body {
     background-size: 100% auto !important;
     background-attachment: fixed 0px 0px !important;    
     font-family: 'Open Sans', sans-serif !important;
+    font-weight: 200;
 }
 
 #room-name .bar-value {
