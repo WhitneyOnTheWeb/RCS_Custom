@@ -11,8 +11,8 @@
     -ms-animation: color_change_chem_1 100s infinite ease-in-out;
     -o-animation: color_change_chem_1 100s infinite ease-in-out;
     animation: color_change_chem_1 100s infinite ease-in-out;
-    font-stretch: 150%;
-    font-weight: bold;
+    font-stretch: expanded;
+    font-weight: 700;
 }
 
 #app-right{
