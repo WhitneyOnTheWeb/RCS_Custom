@@ -9,18 +9,18 @@
     -ms-animation: color_change_chem_1 100s infinite ease-in-out;
     -o-animation: color_change_chem_1 100s infinite ease-in-out;
     animation: color_change_chem_1 100s infinite ease-in-out;
-    font-weight: bold;
+    font-family: Rust;
 }
 
 body {
     background-size: 100% auto !important;
     background-attachment: fixed 0px 0px !important;    
-    font-family: Rust;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
 @font-face {
     font-family: Rust;
-    src: url("http://whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.woff")
+    src: url(http://whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.woff)
 }
 
 /*Personal Badges -----------------------------------------------------------------------*/
