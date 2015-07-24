@@ -1,5 +1,5 @@
 /*Room Name Settings -----------------------------------------------------------------------*/
-@import url(//fonts.googleapis.com/css?family=Josefin+Sans);
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:300);
 /*@import url(//fonts.googleapis.com/css?family=Open+Sans);
 @import url(//fonts.googleapis.com/css?family=Open+Sans+Condensed:300);*/
 
@@ -10,7 +10,7 @@
 body {
     background-size: 100% auto !important;
     background-attachment: fixed 0px 0px !important;  
-    font-family: 'Open Sans Condensed', sans-serif !important;  
+    font-family: 'Josefin Sans', 'Open Sans', sans-serif;
 }
 
 #room-name .bar-value {
@@ -19,7 +19,7 @@ body {
     -ms-animation: color_change_chem_1 100s infinite ease-in-out;
     -o-animation: color_change_chem_1 100s infinite ease-in-out;
     animation: color_change_chem_1 100s infinite ease-in-out;
-    font-family: 'Rock Salt', cursive !important;
+    font-family: 'Rock Salt', 'Open Sans', cursive !important;
 }
 
 @font-face {
@@ -46,14 +46,16 @@ body {
 
 /*Personal Badges -----------------------------------------------------------------------*/
 
-/*NoSpillBlood  id-3451429*/
-/*Sinjun  id-3450088*/
-/*DJLaunchpad   id-3450156*/
-/*Ozzytu  id-6715741*/
-/*Dr_McKay  id-3695881*/
+/*NoSpillBlood    id-3451429*/
+/*Sinjun          id-3450088*/
+/*DJLaunchpad     id-3450156*/
+/*Ozzytu          id-6715741*/
+/*Dr_McKay        id-3695881*/
 /*EvilTinkerbell  id-6656331*/
-/*Mizzle51    id-3486853*/
-/*RAWRMedusa   id-3451392*/
+/*Mizzle51        id-3486853*/
+/*RAWRMedusa      id-3451392*/
+/*mux             id-3777833*/
+/*OralDefense     id-8910542*/
 
 
 #chat .id-3451392 i.bdg { /*RAWRMedusa  3451392*/
