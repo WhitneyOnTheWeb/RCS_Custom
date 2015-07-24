@@ -12,6 +12,12 @@
     font-weight: bold;
 }
 
+body {
+    background-size: 100% auto !important;
+    background-attachment: fixed 0px 0px !important;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
 /*Personal Badges -----------------------------------------------------------------------*/
 
 /*NoSpillBlood  id-3451429*/
@@ -720,11 +726,6 @@
 
 .drag-media-box {
     background-color: #FF3558;
-}
-
-body {
-    background-size: 100% auto !important;
-    background-attachment: fixed 0px 0px !important;
 }
 
 #chat .moderation, #chat .moderation .from, #chat .moderation .from .un {
