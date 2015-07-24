@@ -9,7 +9,7 @@
     -ms-animation: color_change_chem_1 100s infinite ease-in-out;
     -o-animation: color_change_chem_1 100s infinite ease-in-out;
     animation: color_change_chem_1 100s infinite ease-in-out;
-    font-family: Cowboy;
+    font-family: Rust;
 }
 
 body {
@@ -19,8 +19,13 @@ body {
 }
 
 @font-face {
-    font-family: Cowboy;
-    src: url("http://whitneyontheweb.com/ChemicalCowboys/Cowboy_Hippie_Pro.otf")
+    font-family: Rust;
+
+    src: url('http://whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.eot') format('embedded-opentype'), /* IE6-IE8 */
+       url('http://whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+       url('http://whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('http://whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('http://whitneyontheweb.com/ChemicalCowboys/introheadr-base-webfont.svg') format('svg'); /* Legacy iOS *
 }
 
 /*Personal Badges -----------------------------------------------------------------------*/
