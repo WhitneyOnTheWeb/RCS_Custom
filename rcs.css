@@ -31,7 +31,7 @@ body {
     font-family: 'Rock Salt', 'Open Sans', cursive !important;
 }
 
-#your-next-media .bar-value {
+#your-next-media span {
     -webkit-animation: color_change_chem_1 100s infinite ease-in-out;
     -moz-animation: color_change_chem_1 100s infinite ease-in-out;
     -ms-animation: color_change_chem_1 100s infinite ease-in-out;
@@ -40,7 +40,7 @@ body {
     font-family: 'Rock Salt', 'Open Sans', cursive !important;
 }
 
-#your-active-playlist .bar-value {
+#your-active-playlist span {
     -webkit-animation: color_change_chem_1 100s infinite ease-in-out;
     -moz-animation: color_change_chem_1 100s infinite ease-in-out;
     -ms-animation: color_change_chem_1 100s infinite ease-in-out;
