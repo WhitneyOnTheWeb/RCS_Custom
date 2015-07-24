@@ -48,8 +48,13 @@
 }
 
 #chat .id-3695881 i.bdg { /*Dr_McKay  id-3695881*/
+    /*background: url('http://whitneyontheweb.com/ChemicalCowboys/sg.gif') !important;*/
     background: url('http://i.imgur.com/OFWk0fW.jpg') !important;
     background-size: contain;
+}
+
+#chat .id-3451392 .badge-box {
+    background-color: palegoldenrod !important;
 }
 
 #chat .id-3450088 i.bdg { /*Sinjun  3450088*/
@@ -181,10 +186,6 @@
     background-color: transparent !important;
 }
 
-#chat .rs-log-user-meh i.s {
-    background-color: transparent !important;
-}
-
 #chat .rs-log-user-friend-join i.bdg {
     background: url('http://whitneyontheweb.com/ChemicalCowboys/starsm.png') !important;
     background-size: contain;
@@ -200,10 +201,6 @@
 #chat .rs-log-user-woot i.bdg {
     background: url('http://whitneyontheweb.com/ChemicalCowboys/thumbupsm.png') !important;
     background-size: contain;
-    background-color: transparent !important;
-}
-
-#chat .rs-log-user-meh i.s {
     background-color: transparent !important;
 }
 
@@ -250,7 +247,7 @@
 }
 
 #app-header {
-    background: linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
+    background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
 }
 
 #store-button {
@@ -269,9 +266,9 @@
     background: rgba(40, 44, 53, 0.94) !important;
 }
 
-    #plug-menu .legal {
+#plug-menu .legal {
         background: rgba(68, 74, 89, 0.46) !important;
-    }
+}
 
 #settings {
     background: rgba(10, 10, 10, 0.89) !important;
@@ -387,23 +384,23 @@
 }
 
 #dj-button.is-quit .left {
-    border-left: 3px solid #f46b40;
+    border-left: 5px solid #f46b40;
 }
 
 #dj-button.is-leave .left {
-    border-left: 3px solid #f46b40;
+    border-left: 5px solid #f46b40;
 }
 
 #dj-button.is-wait .left {
-    border-left: 3px solid #00b5e6;
+    border-left: 5px solid #5700FF;
 }
 
 #dj-button.is-locked .left {
-    border-left: 3px solid #734ba9;
+    border-left: 5px solid #734ba9;
 }
 
 #dj-button.is-full .left {
-    border-left: 3px solid #CCCCCC;
+    border-left: 5px solid #CCCCCC;
 }
 
 #dj-button {
@@ -416,15 +413,15 @@
 }
 
 #woot .bottom, #woot.selected {
-    background: #90ad2f;
+    background: #89be6c;
 }
 
 #grab .bottom, #grab.selected {
-    background: #aa74ff;
+    background: #734ba9;
 }
 
 #meh .bottom, #meh.selected {
-    background: #c42e3b;
+    background: #FF3558;
 }
 
 .row:hover {
@@ -511,9 +508,9 @@
     background: none !important;
 }
 
-    #playlist-activate-button span {
-        color: #FF3558 !important;
-    }
+#playlist-activate-button span {
+    color: #FF3558 !important;
+}
 
 .media-list .row.now-playing .actions {
     background: #FF3558 !important;
@@ -563,16 +560,31 @@
     background: #FF3558 !important;
 }
 
-#dj-button .left {
-    background: #00afe4 !important;
+
+#dj-button.is-quit .left {
+    border-left: 5px solid #f46b40;
+    background: #FF3558 !important;
 }
 
 #dj-button.is-leave .left {
+    border-left: 5px solid #f46b40;
     background: #FF3558 !important;
 }
 
-#dj-button.is-quit .left {
-    background: #FF3558 !important;
+#dj-button.is-wait .left {
+    border-left: 5px solid #5700FF;
+}
+
+#dj-button.is-locked .left {
+    border-left: 5px solid #734ba9;
+}
+
+#dj-button.is-full .left {
+    border-left: 5px solid #CCCCCC;
+}
+
+#dj-button .left {
+    background: #00afe4 !important;
 }
 
 .delete-button:hover {
