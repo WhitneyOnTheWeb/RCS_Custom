@@ -22,6 +22,15 @@ body {
     font-family: 'Rock Salt', 'Open Sans', cursive !important;
 }
 
+#now-playing-media .bar-value {
+    -webkit-animation: color_change_chem_1 100s infinite ease-in-out;
+    -moz-animation: color_change_chem_1 100s infinite ease-in-out;
+    -ms-animation: color_change_chem_1 100s infinite ease-in-out;
+    -o-animation: color_change_chem_1 100s infinite ease-in-out;
+    animation: color_change_chem_1 100s infinite ease-in-out;
+    font-family: 'Rock Salt', 'Open Sans', cursive !important;
+}
+
 @font-face {
     font-family: Rust;
     src: local('introheadr-base-webfont')
