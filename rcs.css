@@ -13,6 +13,7 @@
     animation: color_change_chem_1 100s infinite ease-in-out;
     font-stretch: expanded;
     font-weight: 700;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 #app-right{
