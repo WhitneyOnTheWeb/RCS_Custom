@@ -53,11 +53,12 @@ body {
 }
 
 #room-host {
-    margin-top: -35px;
+    margin-top: -25px;
+    margin-left: 100px;
 }
 
 #now-playing-dj {
-    margin-top: -35px;
+    margin-top: -25px;
 }
 
 #now-playing-media .bar-value {
