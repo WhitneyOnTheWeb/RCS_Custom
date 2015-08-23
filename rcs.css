@@ -53,11 +53,11 @@ body {
 }
 
 #room-host {
-    margin-top: -25px;
+    margin-top: -35px;
 }
 
 #now-playing-dj {
-    margin-top: -25px;
+    margin-top: -35px;
 }
 
 #now-playing-media .bar-value {
@@ -78,6 +78,7 @@ body {
     animation: color_change_chem_1 100s infinite ease-in-out;
     font-family: 'Rock Salt', cursive !important;
     font-weight: 400;
+    margin-top: -20px;
 }
 
 #your-active-playlist.bar-value span {
@@ -88,6 +89,7 @@ body {
     animation: color_change_chem_1 100s infinite ease-in-out;
     font-family: 'Rock Salt', cursive !important;
     font-weight: 400;
+    margin-top: -20px;
 }
 
 /*Personal Badges -----------------------------------------------------------------------*/
