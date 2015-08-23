@@ -53,13 +53,11 @@ body {
 }
 
 #room-host {
-    margin-top: -25px;
-    padding-left: 200px;
-    padding-right: 0px;
+    display: none;
 }
 
 #now-playing-dj {
-    margin-top: -25px;
+    display: none;
 }
 
 #now-playing-media .bar-value {
