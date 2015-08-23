@@ -1,4 +1,6 @@
 /*Room Name Settings -----------------------------------------------------------------------*/
+@import url(http://fonts.googleapis.com/css?family=Averia+Sans+Libre);
+
 /* latin */
 @font-face {
   font-family: 'Josefin Sans';
@@ -33,8 +35,8 @@
 body {
     background-size: 100% auto !important;
     background-attachment: fixed 0px 0px !important;  
-    font-family: 'Josefin Sans', sans-serif !important;
-    font-weight: 600;
+    font-family: 'Averia Sans Libre', cursive !important;
+    font-weight: 400;
 }
 
 #room-name .bar-value {
