@@ -6,25 +6,28 @@
 }
 
 body {
-    font-family: 'Averia Sans Libre', cursive !important;
+    font-family: 'Dekko', cursive !important;
     font-weight: 400;
 }
 
 #vote {
-    font-family: 'Averia Sans Libre', cursive !important;
+    font-family: 'Trade Winds', cursive !important;
     font-weight: 400;
 }
 
-.woot .bottom {
-    font-size: 20pt !important;
+#woot-rs {
+    font-family: 'Dekko', cursive !important;
+    font-weight: 400;
 }
 
-.grab .bottom {
-    font-size: 20pt !important;
+#grab-rs {
+    font-family: 'Dekko', cursive !important;
+    font-weight: 400;
 }
 
-.meh .bottom {
-    font-size: 20pt !important;
+#meh-rs {
+    font-family: 'Dekko', cursive !important;
+    font-weight: 400;
 }
 
 #room-name .bar-value {
