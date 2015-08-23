@@ -35,7 +35,7 @@
 body {
     background-size: 100% auto !important;
     background-attachment: fixed 0px 0px !important;  
-    font-family: 'Averia Sans Libre', cursive !important;
+    font-family: 'Averia Sans Libre', sans-serif !important;
     font-weight: 400;
 }
 
