@@ -37,6 +37,7 @@
         "subscriber": null
     },
     "emotes": {
-    	"custom_test": "http://whitneyontheweb.com/ChemicalCowboys/rainbow.gif"
+    	"custom_test": "http://whitneyontheweb.com/ChemicalCowboys/rainbow.gif",
+    	"slot_seven": "http://whitneyontheweb.com/ChemicalCowboys/7.png"
     }
 }
