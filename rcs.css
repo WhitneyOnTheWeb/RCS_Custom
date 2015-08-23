@@ -55,6 +55,7 @@ body {
 #room-host {
     margin-top: -25px;
     padding-left: 200px;
+    padding-right: 0px;
 }
 
 #now-playing-dj {
