@@ -1,5 +1,5 @@
 /*Room Name Settings -----------------------------------------------------------------------*/
-@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:700,400);
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:700,400,600);
 
 
 .icon-room {
@@ -10,7 +10,7 @@ body {
     background-size: 100% auto !important;
     background-attachment: fixed 0px 0px !important;  
     font-family: 'Josefin Sans', sans-serif !important;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 #room-name .bar-value {
