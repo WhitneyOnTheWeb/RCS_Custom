@@ -41,6 +41,7 @@ body {
     animation: color_change_chem_1 100s infinite ease-in-out;
     font-family: 'Josefin Sans', sans-serif !important;
     font-weight: 700;
+    font-size: 30pt;
 }
 
 #now-playing-media .bar-value {
