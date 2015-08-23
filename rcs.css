@@ -49,7 +49,15 @@ body {
     font-weight: 400;
 }
 
-#vote .bottom {
+.woot .bottom {
+    font-size: 20pt !important;
+}
+
+.grab .bottom {
+    font-size: 20pt !important;
+}
+
+.meh .bottom {
     font-size: 20pt !important;
 }
 
