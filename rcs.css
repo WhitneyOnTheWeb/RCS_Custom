@@ -52,6 +52,14 @@ body {
     font-weight: 400;
 }
 
+#room-host {
+    margin-top: -20px;
+}
+
+#now-playing-dj {
+    margin-top: -20px;
+}
+
 #now-playing-media .bar-value {
     -webkit-animation: color_change_chem_1 100s infinite ease-in-out;
     -moz-animation: color_change_chem_1 100s infinite ease-in-out;
