@@ -1,8 +1,4 @@
 /*Room Name Settings -----------------------------------------------------------------------*/
-@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:300);
-/*@import url(//fonts.googleapis.com/css?family=Open+Sans);
-@import url(//fonts.googleapis.com/css?family=Open+Sans+Condensed:300);*/
-
 .icon-room {
     background-image: url("http://whitneyontheweb.com/ChemicalCowboys/CC_Fez.png");
 }
@@ -10,7 +6,7 @@
 body {
     background-size: 100% auto !important;
     background-attachment: fixed 0px 0px !important;  
-    font-family: 'Josefin Sans', 'Open Sans', sans-serif;
+    font-family: 'Abel', 'Open Sans', sans-serif;
 }
 
 #room-name .bar-value {
@@ -62,13 +58,23 @@ body {
 }
 
 @font-face {
+  font-family: 'Abel';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Abel'), 
+  local('Abel-Regular'), 
+  url(http://fonts.gstatic.com/s/abel/v6/brdGGFwqYJxjg2CD1E9o7g.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+@font-face {
   font-family: 'Rock Salt';
   font-style: normal;
   font-weight: 400;
   src: local('Rock Salt'), 
-       local('RockSalt'), 
-       url(http://fonts.gstatic.com/s/rocksalt/v6/Q94aHXFHGip10K5uxi1jOFtXRa8TVwTICgirnJhmVJw.woff2) format('woff2'), 
-       url(http://fonts.gstatic.com/s/rocksalt/v6/Q94aHXFHGip10K5uxi1jOD8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+  local('RockSalt'), 
+  url(http://fonts.gstatic.com/s/rocksalt/v6/Q94aHXFHGip10K5uxi1jOFtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 
 /*Personal Badges -----------------------------------------------------------------------*/
