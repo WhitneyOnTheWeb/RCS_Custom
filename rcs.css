@@ -1,5 +1,5 @@
 /*Room Name Settings -----------------------------------------------------------------------*/
-@import url(http://fonts.googleapis.com/css?family=Rock+Salt);
+@import url(http://fonts.googleapis.com/css?family=Nunito:700);
 
 .icon-room {
     background-image: url("http://whitneyontheweb.com/ChemicalCowboys/CC_Fez.png");
@@ -8,7 +8,7 @@
 body {
     background-size: 100% auto !important;
     background-attachment: fixed 0px 0px !important;  
-    font-family: 'Rust', 'Open Sans', sans-serif !important;
+    font-family: 'Nunito', sans-serif !important;
 }
 
 #room-name .bar-value {
@@ -17,7 +17,7 @@ body {
     -ms-animation: color_change_chem_1 100s infinite ease-in-out;
     -o-animation: color_change_chem_1 100s infinite ease-in-out;
     animation: color_change_chem_1 100s infinite ease-in-out;
-    font-family: 'Rock Salt', cursive !important;
+    font-family: 'Nunito', sans-serif !important;
 }
 
 #now-playing-media .bar-value {
@@ -26,7 +26,7 @@ body {
     -ms-animation: color_change_chem_1 100s infinite ease-in-out;
     -o-animation: color_change_chem_1 100s infinite ease-in-out;
     animation: color_change_chem_1 100s infinite ease-in-out;
-    font-family: 'Rock Salt', cursive !important;
+    font-family: 'Nunito', sans-serif !important;
 }
 
 #your-next-media.bar-value span {
@@ -35,7 +35,7 @@ body {
     -ms-animation: color_change_chem_1 100s infinite ease-in-out;
     -o-animation: color_change_chem_1 100s infinite ease-in-out;
     animation: color_change_chem_1 100s infinite ease-in-out;
-    font-family: 'Rock Salt', cursive !important;
+    font-family: 'Nunito', sans-serif !important;
 }
 
 #your-active-playlist.bar-value span {
@@ -44,7 +44,7 @@ body {
     -ms-animation: color_change_chem_1 100s infinite ease-in-out;
     -o-animation: color_change_chem_1 100s infinite ease-in-out;
     animation: color_change_chem_1 100s infinite ease-in-out;
-    font-family: 'Rock Salt', cursive !important;
+    font-family: 'Nunito', sans-serif !important;
 }
 
 
