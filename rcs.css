@@ -8,12 +8,13 @@
   src: local('Nunito-Regular'), url(http://fonts.gstatic.com/s/nunito/v7/cSNs3NwpEgPVRQzvkh3NeQ.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
+
 /* latin */
 @font-face {
-  font-family: 'Nunito';
+  font-family: 'Sigmar One';
   font-style: normal;
-  font-weight: 700;
-  src: local('Nunito-Bold'), url(http://fonts.gstatic.com/s/nunito/v7/TttUCfJ272GBgSKaOaD7KltXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+  font-weight: 400;
+  src: local('Sigmar One'), local('SigmarOne'), url(http://fonts.gstatic.com/s/sigmarone/v6/aRAZJs6CY7SV6eSg6Wx4j_k_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 
@@ -34,7 +35,7 @@ body {
     -ms-animation: color_change_chem_1 100s infinite ease-in-out;
     -o-animation: color_change_chem_1 100s infinite ease-in-out;
     animation: color_change_chem_1 100s infinite ease-in-out;
-    font-family: 'Nunito', sans-serif !important;
+    font-family: 'Sigmar One', cursive !important;
 }
 
 #now-playing-media .bar-value {
@@ -43,7 +44,7 @@ body {
     -ms-animation: color_change_chem_1 100s infinite ease-in-out;
     -o-animation: color_change_chem_1 100s infinite ease-in-out;
     animation: color_change_chem_1 100s infinite ease-in-out;
-    font-family: 'Nunito', sans-serif !important;
+    font-family: 'Sigmar One', cursive !important;
 }
 
 #your-next-media.bar-value span {
@@ -52,7 +53,7 @@ body {
     -ms-animation: color_change_chem_1 100s infinite ease-in-out;
     -o-animation: color_change_chem_1 100s infinite ease-in-out;
     animation: color_change_chem_1 100s infinite ease-in-out;
-    font-family: 'Nunito', sans-serif !important;
+    font-family: 'Sigmar One', cursive !important;
 }
 
 #your-active-playlist.bar-value span {
@@ -61,7 +62,7 @@ body {
     -ms-animation: color_change_chem_1 100s infinite ease-in-out;
     -o-animation: color_change_chem_1 100s infinite ease-in-out;
     animation: color_change_chem_1 100s infinite ease-in-out;
-    font-family: 'Nunito', sans-serif !important;
+    font-family: 'Sigmar One', cursive !important;
 }
 
 
