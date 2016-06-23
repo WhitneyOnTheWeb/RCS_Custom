@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Cagliostro|Sigmar+One|Quicksand:400,700|Didact+Gothic|Handlee|Molengo|Calligraffitti|Copse|Unkempt:400,700|Aclonica|Fredericka+the+Great|Coustard:400,900|Cabin+Sketch:400,700|Frijole|Rajdhani:400,500,700|Freckle+Face|Capriola|Chelsea+Market|Poller+One|Finger+Paint|The+Girl+Next+Door|Corben:400,700|Just+Me+Again+Down+Here|Skranji:400,700|Annie+Use+Your+Telescope|Mystery+Quest|Sue+Ellen+Francisco|Monoton|Happy+Monkey|Sunshiney|Averia+Sans+Libre:400,700|Trade+Winds|Patrick+Hand+SC|Codystar|Rye|Delius+Swash+Caps|Sancreek|Slabo+13px|Flamenco|Cherry+Swash|Londrina+Outline|Ribeye+Marrow|Miltonian+Tattoo|Snippet|Averia+Libre:400,700|Ribeye|Della+Respira|Autour+One|Sofadi+One|Ewert|NTR|Dekko);
 
 .icon-room {
-    background-image: url("http://whitneyontheweb.com/ChemicalCowboys/CC_Fez.png");
+    background-image: url("http://chemical-cowboys.whitneyontheweb.com/Images/CC_Fez.png");
 }
 
 body {
@@ -85,7 +85,7 @@ body {
 
 
 #chat .id-3451392 i.bdg { /*RAWRMedusa  3451392*/
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/bees.gif') !important;
+    background: url('http://chemical-cowboys.whitneyontheweb.com/Images/bees.gif') !important;
     background-size: contain;
 }
 
@@ -94,7 +94,7 @@ body {
 }
 
 #chat .id-6656331 i.bdg { /*EvilTinkerbell  6656331*/
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/tink3.gif') !important;
+    background: url('hhttp://chemical-cowboys.whitneyontheweb.com/Images/tink3.gif') !important;
     background-size: contain;
 }
 
@@ -103,12 +103,12 @@ body {
 }
 
 #chat .id-3450156 i.bdg { /*DJLaunchpad  3450156*/
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/bobafett.gif') !important;
+    background: url('http://chemical-cowboys.whitneyontheweb.com/Images/bobafett.gif') !important;
     background-size: contain;
 }
 
 #chat .id-3695881 i.bdg { /*Dr_McKay  id-3695881*/
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/sg.gif') !important;
+    background: url('http://chemical-cowboys.whitneyontheweb.com/Images/sg.gif') !important;
     /*background: url('http://i.imgur.com/OFWk0fW.jpg') !important;*/
     background-size: contain;
 }
@@ -122,17 +122,17 @@ body {
 }
 
 #chat .id-3450088 i.bdg { /*Sinjun  3450088*/
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/fez1.gif') !important;
+    background: url('http://chemical-cowboys.whitneyontheweb.com/Images/fez1.gif') !important;
     background-size: contain;
 }
 
 #chat .id-6715741 i.bdg { /*Ozzytu  6715741*/
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/acidcat.gif') !important;
+    background: url('http://chemical-cowboys.whitneyontheweb.com/Images/acidcat.gif') !important;
     background-size: contain;
 }
 
 #chat .id-3486853 i.bdg { /*Mizzle51  id-3486853*/
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/goldfish.gif') !important;
+    background: url('http://chemical-cowboys.whitneyontheweb.com/Images/goldfish.gif') !important;
     background-size: contain;
 }
 
@@ -147,7 +147,7 @@ body {
 /*Chembot Settings -------------------------------------------------------------------------------*/
 
 #chat .id-6717571 i.bdg { /*Chembot  6717571*/
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/chembot.gif') !important;
+    background: url('http://chemical-cowboys.whitneyontheweb.com/Images/chembot.gif') !important;
     background-size: contain;
 }
 
@@ -239,55 +239,55 @@ body {
 /*RCS Notification Settings----------------------------------------------------------------------*/
 
 #chat .rs-log-user-grab i.bdg {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/heartsm.png') !important;
+    background: url('http://chemical-cowboys.whitneyontheweb.com/Images/heartsm.png') !important;
     background-size: contain;
     background-color: transparent !important;
 }
 
 #chat .rs-log-user-meh i.bdg {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/thumbdownsm.png') !important;
+    background: url('http://chemical-cowboys.whitneyontheweb.com/Images/thumbdownsm.png') !important;
     background-size: contain;
     background-color: transparent !important;
 }
 
 #chat .rs-log-user-friend-join i.bdg {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/starsm.png') !important;
+    background: url('http://chemical-cowboys.whitneyontheweb.com/Images/starsm.png') !important;
     background-size: contain;
     background-color: transparent !important;
 }
 
 #chat .rs-log-user-join i.bdg {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/usersm.png') !important;
+    background: url('http://chemical-cowboys.whitneyontheweb.com/Images/usersm.png') !important;
     background-size: contain;
     background-color: transparent !important;
 }
 
 #chat .rs-log-user-woot i.bdg {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/thumbupsm.png') !important;
+    background: url('http://chemical-cowboys.whitneyontheweb.com/Images/thumbupsm.png') !important;
     background-size: contain;
     background-color: transparent !important;
 }
 
 #chat .rs-log-user-leave i {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/usersm.png') !important;
+    background: url('http://chemical-cowboys.whitneyontheweb.com/Images/usersm.png') !important;
     background-size: contain;
     background-color: transparent !important;
 }
 
 #chat .rs-log-booth-alert i {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/headphonessm.png') !important;
+    background: url('http://chemical-cowboys.whitneyontheweb.com/Images/headphonessm.png') !important;
     background-size: contain;
     background-color: transparent !important;
 }
 
 #chat .rs-log-song-stats i {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/musicsm.png') !important;
+    background: url('http://chemical-cowboys.whitneyontheweb.com/Images/musicsm.png') !important;
     background-size: contain;
     background-color: transparent !important;
 }
 
 #chat i.icon-star-white {
-    background: url('http://whitneyontheweb.com/ChemicalCowboys/starsm.png') !important;
+    background: url('http://chemical-cowboys.whitneyontheweb.com/Images/starsm.png') !important;
     background-size: contain;
     background-color: transparent !important;
 }
@@ -514,7 +514,7 @@ body {
     width: 28px;
     height: 28px;
     padding-right: 3px;
-    background: url("http://whitneyontheweb.com/ChemicalCowboys/metal.png") !important;
+    background: url("http://chemical-cowboys.whitneyontheweb.com/Images//metal.png") !important;
     background-color: transparent !important;
 }
 
@@ -523,7 +523,7 @@ body {
     width: 28px;
     height: 28px;
     padding-right: 3px;
-    background: url("http://whitneyontheweb.com/ChemicalCowboys/hearticon.png") !important;
+    background: url("http://chemical-cowboys.whitneyontheweb.com/Images/hearticon.png") !important;
     background-color: transparent !important;
 }
 
@@ -532,7 +532,7 @@ body {
     width: 28px;
     height: 28px;
     padding-right: 3px;
-    background: url("http://whitneyontheweb.com/ChemicalCowboys/poop.png");
+    background: url("http://chemical-cowboys.whitneyontheweb.com/Images/poop.png");
     background-color: transparent !important;
 }
 
