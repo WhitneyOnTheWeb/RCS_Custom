@@ -1,7 +1,7 @@
 {
     "room": "Chemical Cowboys",
     "author": "RAWRMedusa",
-    "css": "https://rawgit.com/WhitneyOnTheWeb/RCS_Custom/master/rcs.css",
+    "css": "https://cdn.jsdelivr.net/gh/WhitneyOnTheWeb/RCS_Custom/rcs.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
